@@ -1,0 +1,5 @@
+/Users/michaelkaiser1/Projects/Game_of_life_random_initials/Game_of_life_random_initials/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/michaelkaiser1/Projects/Game_of_life_random_initials/Game_of_life_random_initials/bin/Debug/Game_of_life_random_initials.exe.mdb
+/Users/michaelkaiser1/Projects/Game_of_life_random_initials/Game_of_life_random_initials/bin/Debug/Game_of_life_random_initials.exe
+/Users/michaelkaiser1/Projects/Game_of_life_random_initials/Game_of_life_random_initials/obj/x86/Debug/Game_of_life_random_initials.exe
+/Users/michaelkaiser1/Projects/Game_of_life_random_initials/Game_of_life_random_initials/obj/x86/Debug/Game_of_life_random_initials.exe.mdb

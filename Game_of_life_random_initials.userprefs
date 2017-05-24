@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{CF58C24E-0665-4EF4-89BB-B751487F37D0}|Default">
+  <MonoDevelop.Ide.ItemProperties.Game__of__life__random__initials PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Game_of_life_random_initials/Program.cs">
+    <Files>
+      <File FileName="Game_of_life_random_initials/Program.cs" Line="140" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
